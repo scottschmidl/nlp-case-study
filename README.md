@@ -65,3 +65,5 @@ In the future, we would like to normalize this graph by state population, becaus
 | Texas         | 22.8m | 5532                   | 
 | Washington       | 6.3m | 6524             |
 | Arizona        | 6.0m | 4722                     |
+
+#### Repo Initially Forked from GalvanizeDataScience. Due to Forking Repo was Initially Private.
